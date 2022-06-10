@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.App {
+    padding: 25px 35px;
+    border: 1px solid lightblue;
+    border-radius: 8px;
+    box-shadow: 0 0.3rem 0.5rem lightblue;
+}
